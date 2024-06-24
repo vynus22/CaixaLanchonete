@@ -1,0 +1,5 @@
+Cheeseburger;15.00
+Refrigerante;5.00
+Batata Frita;10.00
+Milkshake;8.00
+Sanduíche de Frango;12.00
